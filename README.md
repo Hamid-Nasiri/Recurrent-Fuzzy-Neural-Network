@@ -24,7 +24,7 @@ The [`Benchmarks`](Benchmarks/) folder contains several time series datasets use
 + `Box-Jenkins_Gas_Furnace_Problem.mat` corresponds to the Box-Jenkins gas furnace, a well-known time series forecasting problem.
 + `Wind_Speed_Prediction.mat` corresponds to the wind speed prediction problem. The datase is obtained from the [Iowa Department of Transport's website](http://mesonet.agron.iastate.edu/request/awos/1min.php). The data was collected from the Washington station during a one-month period (February 2011), sampled every ten minutes, and averaged hourly.
 + `Google_Stock_Price.mat` corresponds to the Google stock price prediction problem. The dataset was obtained from [Yahoo Finance](http://finance.yahoo.com) during a six-year period from 19-August-2004 to 21-September-2010.
-+ `PM2_Xstep.mat`,`PM10_Xstep.mat`, `SO2_Xstep.mat`, `NO2_Xstep.mat`, `CO_Xstep.mat`, and `O3_Xstep.mat` correspond to the Air Quality Index (AQI) prediction probelm. The AQI dataset employed in this paper is collected from 12 observing stations around Beijing from year 2013 to 2017. The data is accessible at The University of California, Irvine (UCI) Machine Learning Repository.
++ `PM2_Xstep.mat`,`PM10_Xstep.mat`, `SO2_Xstep.mat`, `NO2_Xstep.mat`, `CO_Xstep.mat`, and `O3_Xstep.mat` correspond to the Air Quality Index (AQI) prediction probelm. The AQI dataset employed in this paper is collected from 12 observing stations around Beijing from year 2013 to 2017. The data is accessible at [The University of California, Irvine (UCI) Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data).
 
 # Citation
 
