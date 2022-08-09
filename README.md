@@ -6,7 +6,7 @@ Chaotic time series prediction, a challenging research topic in dynamic system m
 
 This repository contains MATLAB source code of the following paper:
 
-**Paper:**(https://www.sciencedirect.com/science/article/pii/S0925231222010074)
+**Paper:** https://www.sciencedirect.com/science/article/pii/S0925231222010074
 
 To run the code simply execute `main.m`
 
