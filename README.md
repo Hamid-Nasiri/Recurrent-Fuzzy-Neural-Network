@@ -17,6 +17,8 @@ This repository contains MATLAB source code of the following paper:
 To run the code simply execute `main.m`
 
 **Dataset:** 
+The [`Benchmarks`](Benchmarks/) folder contains several time series datasets used for testing and evaluating the code. We summarize these files, and provide their original sources, here:
+
 The Air Quality Index dataset employed in this project is collected from 12 observing stations around Beijing from year 2013 to 2017. The data is accessible at The University of California, Irvine (UCI) Machine Learning Repository.
 
 # Citation
