@@ -21,7 +21,9 @@ The Air Quality Index dataset employed in this project is collected from 12 obse
 
 # Citation
 
-If you use this code, please cite our paper.
+This repository accompanies the paper ["MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction"](https://www.sciencedirect.com/science/article/pii/S0925231222010074) by Hamid Nasiri and Mohammad Mehdi Ebadzadeh.
+
+If you use either the code, datasets or paper, please consider citing the paper.
 
 ```
 @article{nasiri2022mfrfnn,
