@@ -9,9 +9,26 @@ This repository contains MATLAB source code of the following paper:
 [MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction](https://www.sciencedirect.com/science/article/pii/S0925231222010074)
 
 ---
+
 ## Source Code and Dataset
 
 To run the code simply execute `main.m`
 
 **Dataset:** 
 The Air Quality Index dataset employed in this project is collected from 12 observing stations around Beijing from year 2013 to 2017. The data is accessible at The University of California, Irvine (UCI) Machine Learning Repository.
+
+---
+
+# Citation
+
+If you use this code, please cite our paper.
+
+```
+@article{nasiri2022mfrfnn,
+  title={MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction},
+  author={Nasiri, Hamid and Ebadzadeh, Mohammad Mehdi},
+  journal={Neurocomputing},
+  year={2022},
+  publisher={Elsevier}
+}
+```
