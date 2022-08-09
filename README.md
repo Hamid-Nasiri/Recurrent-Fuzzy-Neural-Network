@@ -28,7 +28,7 @@ The [`Benchmarks`](Benchmarks/) folder contains several time series datasets use
 
 # Citation
 
-This repository accompanies the paper ["MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction"](https://www.sciencedirect.com/science/article/pii/S0925231222010074) by [Hamid Nasiri](https://www.linkedin.com/in/hamid-nasiri-b5555487/) and [Mohammad Mehdi Ebadzadeh](https://www.linkedin.com/in/mehdi-ebadzadeh-28bb3b35/).
+This repository accompanies the paper ["MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction"](https://www.sciencedirect.com/science/article/pii/S0925231222010074) by [Hamid Nasiri](https://www.linkedin.com/in/hamid-nasiri-b5555487/) and [Mohammad Mehdi Ebadzadeh](https://www.linkedin.com/in/mehdi-ebadzadeh-28bb3b35/), published in Neurocomputing journal.
 
 If you use either the code, datasets or paper, please consider citing the paper.
 
