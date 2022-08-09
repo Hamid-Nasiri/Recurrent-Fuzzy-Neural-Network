@@ -1,4 +1,4 @@
-# Recurrent-Fuzzy-Neural-Network
+# MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction
 Recurrent Fuzzy Neural Network for Time Series Prediction
 
 
