@@ -2,7 +2,9 @@
 Recurrent Fuzzy Neural Network for Time Series Prediction
 
 
-This repository contains MATLAB implementation of Recurrent Fuzzy Neural Network for time series prediction.
+This repository contains MATLAB source code of the following paper:
+
+[MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction](https://www.sciencedirect.com/science/article/pii/S0925231222010074)
 
 To run the code simply execute `main.m`
 
