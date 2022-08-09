@@ -26,7 +26,7 @@ The [`Benchmarks`](Benchmarks/) folder contains several time series datasets use
 + `Google_Stock_Price.mat` corresponds to the Google stock price prediction problem. The dataset was obtained from [Yahoo Finance](http://finance.yahoo.com) during a six-year period from 19-August-2004 to 21-September-2010.
 + `PM2_Xstep.mat`,`PM10_Xstep.mat`, `SO2_Xstep.mat`, `NO2_Xstep.mat`, `CO_Xstep.mat`, and `O3_Xstep.mat` correspond to the Air Quality Index (AQI) prediction probelm. The AQI dataset employed in this paper is collected from 12 observing stations around Beijing from year 2013 to 2017. The data is accessible at [The University of California, Irvine (UCI) Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data).
 
-# Citation
+## Citation
 
 This repository accompanies the paper ["MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction"](https://www.sciencedirect.com/science/article/pii/S0925231222010074) by [Hamid Nasiri](https://www.linkedin.com/in/hamid-nasiri-b5555487/) and [Mohammad Mehdi Ebadzadeh](https://www.linkedin.com/in/mehdi-ebadzadeh-28bb3b35/), published in Neurocomputing journal.
 
