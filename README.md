@@ -16,14 +16,19 @@ This repository contains MATLAB source code of the following paper:
 
 To run the code simply execute `main.m`
 
-**Dataset:** 
+**Datasets:** 
 The [`Benchmarks`](Benchmarks/) folder contains several time series datasets used for testing and evaluating the code. We summarize these files, and provide their original sources, here:
 
-The Air Quality Index dataset employed in this project is collected from 12 observing stations around Beijing from year 2013 to 2017. The data is accessible at The University of California, Irvine (UCI) Machine Learning Repository.
++ `Lorenz20000.mat` corresponds to the Lorenz System. The fourth-order Runge-Kutta method was used to generate samples.
++ `Rossler12700.mat` corresponds to the Rossler System. The fourth-order Runge-Kutta method was employed to generate samples.
++ `Box-Jenkins_Gas_Furnace_Problem.mat` corresponds to the Box-Jenkins gas furnace, a well-known time series forecasting problem.
++ `Wind_Speed_Prediction.mat` corresponds to the wind speed prediction problem. The datase is obtained from the [Iowa Department of Transport's website](http://mesonet.agron.iastate.edu/request/awos/1min.php). The data was collected from the Washington station during a one-month period (February 2011), sampled every ten minutes, and averaged hourly.
++ `Google_Stock_Price.mat` corresponds to the Google stock price prediction problem. The dataset was obtained from [Yahoo Finance](http://finance.yahoo.com) during a six-year period from 19-August-2004 to 21-September-2010.
++ `PM2_Xstep.mat`,`PM10_Xstep.mat`, `SO2_Xstep.mat`, `NO2_Xstep.mat`, `CO_Xstep.mat`, and `O3_Xstep.mat` correspond to the Air Quality Index (AQI) prediction probelm. The AQI dataset employed in this paper is collected from 12 observing stations around Beijing from year 2013 to 2017. The data is accessible at The University of California, Irvine (UCI) Machine Learning Repository.
 
 # Citation
 
-This repository accompanies the paper ["MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction"](https://www.sciencedirect.com/science/article/pii/S0925231222010074) by Hamid Nasiri and Mohammad Mehdi Ebadzadeh.
+This repository accompanies the paper ["MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction"](https://www.sciencedirect.com/science/article/pii/S0925231222010074) by [Hamid Nasiri](https://www.linkedin.com/in/hamid-nasiri-b5555487/) and [Mohammad Mehdi Ebadzadeh](https://www.linkedin.com/in/mehdi-ebadzadeh-28bb3b35/).
 
 If you use either the code, datasets or paper, please consider citing the paper.
 
