@@ -41,3 +41,9 @@ If you use either the code, datasets or paper, please consider citing the paper.
   publisher={Elsevier}
 }
 ```
+
+## Contact Me
+
+If you have any questions, do not hesitate to reach me via [linkedin]((https://www.linkedin.com/in/hamid-nasiri-b5555487/) or email: h.nasiri@aut.ac.ir
+
+Thank you so much for your attention.
